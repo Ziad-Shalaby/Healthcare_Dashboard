@@ -34,7 +34,6 @@ This Healthcare Dashboard is a powerful tool for healthcare professionals, resea
 
 - **Multiple Analysis Pages**
   - Patient Demographics
-  - Treatment Efficacy
   - Healthcare Resource Allocation
   - Epidemiological Trends
 
@@ -144,10 +143,6 @@ The dashboard incorporates data from:
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` file for more information.
-
-## 🏆 Achievements
-- Winner of Healthcare Innovation Hackathon 2024
-- Featured in Open Source Health Tech Showcase
 
 ## 👥 Authors
 - **Ziad Shalaby** - *Initial work and design*
