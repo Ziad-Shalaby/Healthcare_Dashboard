@@ -1,7 +1,5 @@
 # Healthcare Dashboard
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Healthcare+Dashboard+Preview)
-
 ## 🏥 Project Overview
 Healthcare Dashboard is an advanced data visualization application designed to provide comprehensive insights into healthcare metrics. Leveraging modern data analysis techniques, the dashboard offers interactive and intuitive visualizations of complex healthcare data.
 
